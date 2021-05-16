@@ -1,4 +1,4 @@
-'use strict';
+
 const guess = document.querySelector('.guess');
 const checkBtn = document.querySelector('.check');
 const messageElement = document.querySelector('.message');
